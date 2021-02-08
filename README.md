@@ -1,8 +1,10 @@
 # task1
-Repositorio para task1 de Transact
+This is a solution for proposed task, from Tranzact.
+Required testcase code can be seen on Task1.cs, on NewAccountRegistration() method.
 
-This is a solution for proposed task, from Tranzact. Required testcase code can de seen on Task1.cs, on NewAccountRegistration() method.
 
+Task to be resolved
+======================================================
 Create automated tests using the following test case:
 Sign in
 
